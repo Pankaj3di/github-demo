@@ -19,5 +19,10 @@ public class TestClass {
 
 	}
 	
+	@Test
+	public void test4() {
+		System.out.println("Test 4");
+
+	}
 
 }
