@@ -24,5 +24,23 @@ public class TestClass {
 		System.out.println("Test 4");
 
 	}
+	
+	@Test
+	public void test5() {
+		System.out.println("Test 5");
+
+	}
+	
+	@Test
+	public void test6() {
+		System.out.println("Test 6");
+
+	}
+	
+	@Test
+	public void test7() {
+		System.out.println("Test 7");
+
+	}
 
 }
