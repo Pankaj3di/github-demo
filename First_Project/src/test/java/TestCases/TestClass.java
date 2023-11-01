@@ -37,10 +37,6 @@ public class TestClass {
 
 	}
 	
-	@Test
-	public void test7() {
-		System.out.println("Test 7");
-
-	}
+	
 
 }
