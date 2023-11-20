@@ -36,6 +36,11 @@ public class TestClass {
 		System.out.println("Test 6");
 
 	}
+	@Test
+	public void test7() {
+		System.out.println("Test7");
+
+	}
 	
 	
 
